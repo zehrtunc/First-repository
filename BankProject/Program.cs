@@ -23,7 +23,7 @@ namespace BankProject
             Bank bank = new Bank();
             bank.BankScreen();
 
-            // ZEYRAYI COK SEVIYOM
+            // ZEYRAYI COK SEVIYOM EDITED V222222222
 
             Console.ReadKey();
         }
